@@ -1,0 +1,56 @@
+*{
+    padding-left: 0;
+    margin:0;
+}
+.picture{
+    text-align: center;
+    margin-left: 40%;
+    margin-top: 30px;
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+}
+.div{
+    background-color: aqua;
+}
+.two{
+    color: brown;
+    margin-left: 450px;
+}
+.one{
+    color: brown;
+    margin-left: 20px;
+}
+.three{
+    color: brown;
+    margin-left: 300px;
+}
+.second{
+    color: blue;
+    margin-left: 400px;
+}
+.third{
+    color: blue;
+    margin-left: 200px;
+}
+.first{
+    color: blue;
+}
+.summary{
+    margin-left: 50px;
+}
+.footer{
+    background-color: black;
+    height: 200px;
+    font-style: normal;
+    
+}
+.six{
+    color: aliceblue;
+    margin-left: 50%;
+    margin-bottom:  20px; ;
+}
+
+
+
+
